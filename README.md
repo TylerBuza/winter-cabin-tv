@@ -91,9 +91,9 @@ verification of the standalone hosts or a performance benchmark.
 
 ## CleanYourTV submission
 
-Intended destination: the community behind [cleanyour.tv/addons](https://cleanyour.tv/addons).
-The current feature-proposal route is
-[Discussions / Ideas](https://github.com/Gathin23/cleanyourtv/discussions/categories/ideas).
+Submitted for review in **[CleanYourTV Ideas discussion #4010](https://github.com/Gathin23/cleanyourtv/discussions/4010)**.
+The intended destination is the community gallery at [cleanyour.tv/addons](https://cleanyour.tv/addons).
+Acceptance and gallery inclusion are pending; submitting the proposal does not create a listing.
 
 The proposal asks the maintainer whether this should become an independent screensaver
 add-on/module card, an optional launcher capability for animated Home scenes, or a separate
